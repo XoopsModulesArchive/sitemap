@@ -1,5 +1,5 @@
 <?php
-// $Id: myAds.php,v 1.1 2005/04/07 09:23:42 gij Exp $
+// $Id$
 // FILE		::	myAds.php
 // AUTHOR	::	Tom_G3X
 // WEB		::http://malaika.s31.xrea.com/

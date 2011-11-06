@@ -1,5 +1,5 @@
 <?php
-// $Id: soapbox.php,v 1.1 2005/04/07 09:23:42 gij Exp $
+// $Id$
 // NOTE		::	edit by domifara for soapbox1.5 RC3 
 
 function b_sitemap_soapbox(){
