@@ -4,19 +4,19 @@
 // Appended by Xoops Language Checker -GIJOE- in 2006-10-28 05:37:02
 define('_MI_SITEMAP_ADMENU_TOP','TOP');
 
-define('_MI_SITEMAP_NAME', 'Plan du site');
-define('_MI_SITEMAP_MESSAGE', 'Message');
+define('_MI_SITEMAP_NAME','Plan du site');
+define('_MI_SITEMAP_MESSAGE','Message');
 
 define('_MI_SITEMAP_ADMENU_MYBLOCKSADMIN','Blocs/Groupes');
 
 define('_MI_SITEMAP_BLOCKNAME','Plan du site');
 define('_MI_SITEMAP_BLOCKDESC','Montrer le plan dans un bloc.');
 
-define('_MI_MESSAGE', 'Message');
-define('_MI_MESSAGEEDSC', 'Message qui apparaitra sur la page');
+define('_MI_MESSAGE','Message');
+define('_MI_MESSAGEEDSC','Message qui apparaitra sur la page');
 
-define('_MI_SHOW_SUBCATEGORIES', 'Afficher les sous-cat&eacute;gories');
-define('_MI_SHOW_SUBCATEGORIESDSC', 'Afficher ou non les sous-cat&eacute;gories');
+define('_MI_SHOW_SUBCATEGORIES','Afficher les sous-cat&eacute;gories');
+define('_MI_SHOW_SUBCATEGORIESDSC','Afficher ou non les sous-cat&eacute;gories');
 
 define('_MI_ALLTIME_GUEST','Mode invit&eacute; permanent');
 define('_MI_ALLTIME_GUESTDSC',"Si vous activez le cache sur le module, mettre cette option &agrave; 'oui'");

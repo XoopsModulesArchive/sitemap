@@ -1,7 +1,7 @@
 <?php
 
 include_once('./../../../include/cp_header.php');
-define( '_MYMENU_CONSTANT_IN_MODINFO' , '_MI_SITEMAP_NAME' ) ;
+define('_MYMENU_CONSTANT_IN_MODINFO' , '_MI_SITEMAP_NAME' ) ;
 
 // branch for altsys
 if( defined( 'XOOPS_TRUST_PATH' ) && ! empty( $_GET['lib'] ) ) {

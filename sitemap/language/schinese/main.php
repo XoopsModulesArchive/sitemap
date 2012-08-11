@@ -1,5 +1,5 @@
 <?php
 
-define('_MD_SITEMAP_HOME', 'ÍøÕ¾Ê×Ò³');
+define('_MD_SITEMAP_HOME','ï¿½ï¿½Õ¾ï¿½ï¿½Ò³');
 
 ?>

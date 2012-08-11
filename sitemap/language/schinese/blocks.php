@@ -1,7 +1,7 @@
 <?php
 
-define('_MB_SITEMAP_OPENCLOSE', 'µã»÷ (´ò¿ª/¹Ø±Õ)');
-define('_MB_SITEMAP_COLS', 'ÏÔÊ¾À¸Êý');
-define('_MB_SITEMAP_HOME', 'ÍøÕ¾Ê×Ò³');
+define('_MB_SITEMAP_OPENCLOSE','ï¿½ï¿½ï¿½ (ï¿½ï¿½/ï¿½Ø±ï¿½)');
+define('_MB_SITEMAP_COLS','ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½');
+define('_MB_SITEMAP_HOME','ï¿½ï¿½Õ¾ï¿½ï¿½Ò³');
 
 ?>

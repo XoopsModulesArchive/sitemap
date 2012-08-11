@@ -4,8 +4,8 @@
 // Appended by Xoops Language Checker -GIJOE- in 2006-10-28 05:39:30
 define('_MB_SITEMAP_HOME','HOME');
 
-define('_MB_SITEMAP_OPENCLOSE', 'Fes clic aquí per mostrar/amagar');
-define('_MB_SITEMAP_COLS', 'Columnes');
+define('_MB_SITEMAP_OPENCLOSE','Fes clic aquÃ­ per mostrar/amagar');
+define('_MB_SITEMAP_COLS','Columnes');
 
 
 ?>

@@ -1,27 +1,27 @@
 <?php
 
-define('_MI_SITEMAP_NAME', 'ÍøÕ¾µØÍ¼');
-define('_MI_SITEMAP_MESSAGE', 'ËµÃ÷');
+define('_MI_SITEMAP_NAME','ï¿½ï¿½Õ¾ï¿½ï¿½Í¼');
+define('_MI_SITEMAP_MESSAGE','Ëµï¿½ï¿½');
 
-define('_MI_SITEMAP_ADMENU_TOP', '¹ÜÀíÊ×Ò³' ) ;
-define('_MI_SITEMAP_ADMENU_MYBLOCKSADMIN', 'Çø¿é/Èº×é¹ÜÀí' ) ;
+define('_MI_SITEMAP_ADMENU_TOP','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò³' ) ;
+define('_MI_SITEMAP_ADMENU_MYBLOCKSADMIN','ï¿½ï¿½ï¿½ï¿½/Èºï¿½ï¿½ï¿½ï¿½ï¿½' ) ;
 
-define('_MI_SITEMAP_BLOCKNAME', 'ÍøÕ¾µØÍ¼');
-define('_MI_SITEMAP_BLOCKDESC', 'ÔÚÇø¿éÖÐÏÔÊ¾ÍøÕ¾µØÍ¼¡£');
+define('_MI_SITEMAP_BLOCKNAME','ï¿½ï¿½Õ¾ï¿½ï¿½Í¼');
+define('_MI_SITEMAP_BLOCKDESC','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½Õ¾ï¿½ï¿½Í¼ï¿½ï¿½');
 
-define('_MI_MESSAGE', 'ËµÃ÷');
-define('_MI_MESSAGEEDSC', '');
+define('_MI_MESSAGE','Ëµï¿½ï¿½');
+define('_MI_MESSAGEEDSC','');
 
-define('_MI_SHOW_SUBCATEGORIES', 'ÏÔÊ¾×ÓÀà±ð');
-define('_MI_SHOW_SUBCATEGORIESDSC', '');
+define('_MI_SHOW_SUBCATEGORIES','ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½');
+define('_MI_SHOW_SUBCATEGORIESDSC','');
 
-define('_MI_ALLTIME_GUEST', '×ÜÊÇÊ¹ÓÃÓÎ¿Íä¯ÀÀÄ£Ê½');
-define('_MI_ALLTIME_GUESTDSC', "Èç¹ûÄúÆôÓÃ´ËÄ£¿éµÄ»º´æ£¬ÇëÑ¡Ôñ¡°ÊÇ¡±");
+define('_MI_ALLTIME_GUEST','ï¿½ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½ï¿½Î¿ï¿½ï¿½ï¿½ï¿½Ä£Ê½');
+define('_MI_ALLTIME_GUESTDSC', "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã´ï¿½Ä£ï¿½ï¿½Ä»ï¿½ï¿½æ£¬ï¿½ï¿½Ñ¡ï¿½ï¿½ï¿½Ç¡ï¿½");
 
-define('_MI_INVISIBLE_WEIGHTS', 'Ö¸¶¨ÒªÒþ²ØÄ£¿éµÄÈ¨ÖØ');
-define('_MI_INVISIBLE_WEIGHTSDSC', 'ÊäÈëÄ£¿é¹ÜÀíÖÐµÄÅÅÐòÊý×Ö£¬Æä¶ÔÓ¦µÄÄ£¿é½«²»ÏÔÊ¾¡£<br />ÓÐ¶à¸öÊý×ÖÊ±£¬ÓÃ¶ººÅ (,) ·Ö¸ôÊý×Ö¡£<br />(Í¨³£ÊÇ0»òÁô¿Õ)');
+define('_MI_INVISIBLE_WEIGHTS','Ö¸ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½È¨ï¿½ï¿½');
+define('_MI_INVISIBLE_WEIGHTSDSC','ï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ðµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ö£ï¿½ï¿½ï¿½ï¿½Ó¦ï¿½ï¿½Ä£ï¿½é½«ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½<br />ï¿½Ð¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ã¶ï¿½ï¿½ï¿½ (,) ï¿½Ö¸ï¿½ï¿½ï¿½ï¿½Ö¡ï¿½<br />(Í¨ï¿½ï¿½ï¿½ï¿½0ï¿½ï¿½ï¿½ï¿½ï¿½)');
 
-define('_MI_INVISIBLE_DIRNAMES', 'Ö¸¶¨ÒªÒþ²ØÄ£¿éµÄÄ¿Â¼Ãû');
-define('_MI_INVISIBLE_DIRNAMESDSC', "Ö¸¶¨Ä¿Â¼ÃûµÄÄ£¿é½«²»ÏÔÊ¾¡£<br />ÓÐ¶à¸öÄ¿Â¼ÃûÊ±£¬ÓÃ¶ººÅ (,) ·Ö¸ô¡£<br />Èç£ºxoopsheadline,newbb");
+define('_MI_INVISIBLE_DIRNAMES','Ö¸ï¿½ï¿½Òªï¿½ï¿½ï¿½ï¿½Ä£ï¿½ï¿½ï¿½Ä¿Â¼ï¿½ï¿½');
+define('_MI_INVISIBLE_DIRNAMESDSC', "Ö¸ï¿½ï¿½Ä¿Â¼ï¿½ï¿½ï¿½ï¿½Ä£ï¿½é½«ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½<br />ï¿½Ð¶ï¿½ï¿½Ä¿Â¼ï¿½ï¿½Ê±ï¿½ï¿½ï¿½Ã¶ï¿½ï¿½ï¿½ (,) ï¿½Ö¸ï¿½ï¿½<br />ï¿½ç£ºxoopsheadline,newbb");
 
 ?>

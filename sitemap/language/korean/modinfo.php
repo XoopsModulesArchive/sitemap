@@ -22,13 +22,13 @@ define('_MI_ALLTIME_GUESTDSC','If you turn this module\'s cache on, set this opt
 define('_MI_INVISIBLE_WEIGHTS','Weights for hiding modules');
 define('_MI_INVISIBLE_WEIGHTSDSC','Modules which has this number as its order in ModulesAdmin will be invisible. The numbers should be separate by comma.<br />(Normally 0 or blank)');
 
-define('_MI_SITEMAP_NAME', '»çÀÌÆ®¸Ê');
-define('_MI_SITEMAP_MESSAGE', '¿©±â¿¡ ¾È³»¹®µîÀÇ ¸Þ¼¼Áö¸¦ Ãß°¡ÇÏ½Ç ¼ö ÀÖ½À´Ï´Ù. °ü¸®È­¸é¿¡¼­ ÆíÁýÇÏ¼¼¿ä!');
+define('_MI_SITEMAP_NAME','ï¿½ï¿½ï¿½ï¿½Æ®ï¿½ï¿½');
+define('_MI_SITEMAP_MESSAGE','ï¿½ï¿½ï¿½â¿¡ ï¿½È³ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Þ¼ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ß°ï¿½ï¿½Ï½ï¿½ ï¿½ï¿½ ï¿½Ö½ï¿½ï¿½Ï´ï¿½. ï¿½ï¿½ï¿½ï¿½È­ï¿½é¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½!');
 
-define('_MI_MESSAGE', '¸Þ¼¼Áö');
-define('_MI_MESSAGEEDSC', '');
+define('_MI_MESSAGE','ï¿½Þ¼ï¿½ï¿½ï¿½');
+define('_MI_MESSAGEEDSC','');
 
-define('_MI_SHOW_SUBCATEGORIES', '¼­ºêÄ«Å×°í¸®µµ Ç¥½ÃÇÔ');
-define('_MI_SHOW_SUBCATEGORIESDSC', '');
+define('_MI_SHOW_SUBCATEGORIES','ï¿½ï¿½ï¿½ï¿½Ä«ï¿½×°ï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½ï¿½');
+define('_MI_SHOW_SUBCATEGORIESDSC','');
 
 ?>

@@ -8,26 +8,26 @@
 define('_MI_SITEMAP_ADMENU_TOP','TOP');
 
 // Appended by Xoops Language Checker -GIJOE- in 2005-09-03 06:21:32
-define('_MI_SITEMAP_ADMENU_MYBLOCKSADMIN','°Ï¶ôºÞ²z/¸s²ÕºÞ²z');
-define('_MI_SITEMAP_BLOCKNAME','ºô¯¸¾ÉÄý');
-define('_MI_SITEMAP_BLOCKDESC','¥H°Ï¶ôÅã¥Üºô¯¸¾ÉÄý¡C');
+define('_MI_SITEMAP_ADMENU_MYBLOCKSADMIN','ï¿½Ï¶ï¿½Þ²z/ï¿½sï¿½ÕºÞ²z');
+define('_MI_SITEMAP_BLOCKNAME','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½');
+define('_MI_SITEMAP_BLOCKDESC','ï¿½Hï¿½Ï¶ï¿½ï¿½ï¿½Üºï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½C');
 
 // Appended by Xoops Language Checker -GIJOE- in 2005-04-12 11:31:59
-define('_MI_INVISIBLE_DIRNAMES','ÁôÂÃ¼Ò¥óªº¥Ø¿ý¦WºÙ');
-define('_MI_INVISIBLE_DIRNAMESDSC','«ü©w­nÁôÂÃªº¼Ò¥ó¦WºÙ¡C<br />¥Ø¿ý¦WºÙ­n¥H³r¸¹(,)¨Ó¤À¹j¡C<br />¨Ò¦p¡Gxoopsheadline,newbb');
+define('_MI_INVISIBLE_DIRNAMES','ï¿½ï¿½ï¿½Ã¼Ò¥óªº¥Ø¿ï¿½ï¿½Wï¿½ï¿½');
+define('_MI_INVISIBLE_DIRNAMESDSC','ï¿½ï¿½ï¿½wï¿½nï¿½ï¿½ï¿½Ãªï¿½ï¿½Ò¥ï¿½Wï¿½Ù¡C<br />ï¿½Ø¿ï¿½ï¿½Wï¿½Ù­nï¿½Hï¿½rï¿½ï¿½(,)ï¿½Ó¤ï¿½ï¿½jï¿½C<br />ï¿½Ò¦pï¿½Gxoopsheadline,newbb');
 
 // Appended by Xoops Language Checker -GIJOE- in 2005-04-08 05:46:30
-define('_MI_ALLTIME_GUEST','¥Ã»·¨Ï¥Î³X«È¼Ò¦¡');
-define('_MI_ALLTIME_GUESTDSC','¦pªG±z±Ò¥Î³o¼Ò²Õªº Cache ¡A½Ð±N³o­Ó¿ï¶µ³]¦¨ \'¬O\'¡C');
-define('_MI_INVISIBLE_WEIGHTS','ÁôÂÃÁc­«ªº¼Ò²Õ');
-define('_MI_INVISIBLE_WEIGHTSDSC','«ü©w­nÁôÂÃ¼Ò²Õªº¼Ò²ÕºÞ²z±Æ§ÇÄæ¤¤¼Æ¦r¡C<br />¼Æ¦r­n¥H³r¸¹(,)¨Ó¤À¹j¡C<br />(³q±`¬O 0 ©Î ªÅ¥Õ)');
+define('_MI_ALLTIME_GUEST','ï¿½Ã»ï¿½ï¿½Ï¥Î³Xï¿½È¼Ò¦ï¿½');
+define('_MI_ALLTIME_GUESTDSC','ï¿½pï¿½Gï¿½zï¿½Ò¥Î³oï¿½Ò²Õªï¿½ Cache ï¿½Aï¿½Ð±Nï¿½oï¿½Ó¿ï¶µï¿½]ï¿½ï¿½ \'ï¿½O\'ï¿½C');
+define('_MI_INVISIBLE_WEIGHTS','ï¿½ï¿½ï¿½ï¿½ï¿½cï¿½ï¿½ï¿½ï¿½ï¿½Ò²ï¿½');
+define('_MI_INVISIBLE_WEIGHTSDSC','ï¿½ï¿½ï¿½wï¿½nï¿½ï¿½ï¿½Ã¼Ò²Õªï¿½ï¿½Ò²ÕºÞ²zï¿½Æ§ï¿½ï¿½æ¤¤ï¿½Æ¦rï¿½C<br />ï¿½Æ¦rï¿½nï¿½Hï¿½rï¿½ï¿½(,)ï¿½Ó¤ï¿½ï¿½jï¿½C<br />(ï¿½qï¿½`ï¿½O 0 ï¿½ï¿½ ï¿½Å¥ï¿½)');
 
-define('_MI_SITEMAP_NAME', 'ºô¯¸¾ÉÄý');
-define('_MI_SITEMAP_MESSAGE', '¦b¦¹³]©w»¡©ú¤å³¹¥i¥HÅã¥Ü©ó¾ÉÄý­¶¤W¤è¡C<br />½Ð¥ÑºÞ²zµe­±½s¿è³á¡I');
+define('_MI_SITEMAP_NAME','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½');
+define('_MI_SITEMAP_MESSAGE','ï¿½bï¿½ï¿½ï¿½]ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½å³¹ï¿½iï¿½Hï¿½ï¿½Ü©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½C<br />ï¿½Ð¥ÑºÞ²zï¿½eï¿½ï¿½ï¿½sï¿½ï¿½ï¿½I');
 
-define('_MI_MESSAGE', '»¡©ú¤º®e');
-define('_MI_MESSAGEEDSC', '¦b¦¹³]©w»¡©ú¤å³¹¥i¥HÅã¥Ü©ó¾ÉÄý­¶¤W¤è¡C');
+define('_MI_MESSAGE','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½e');
+define('_MI_MESSAGEEDSC','ï¿½bï¿½ï¿½ï¿½]ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½å³¹ï¿½iï¿½Hï¿½ï¿½Ü©ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Wï¿½ï¿½C');
 // add by Ryuji
-define('_MI_SHOW_SUBCATEGORIES', '¦¸¤ÀÃþ¿ï¶µ¤]Åã¥Ü');
-define('_MI_SHOW_SUBCATEGORIESDSC', '\'¬O\'¡GÅã¥Ü¥D¿ï³æ¡B¥D¤ÀÃþ¤Î©Ò¦³¦¸¤ÀÃþ¿ï¶µ¡C<br />\'§_\'¡G¥uÅã¥Ü¥D¿ï³æ¤Î¥D¤ÀÃþ¿ï¶µ¡C');
+define('_MI_SHOW_SUBCATEGORIES','ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¶µï¿½]ï¿½ï¿½ï¿½');
+define('_MI_SHOW_SUBCATEGORIESDSC','\'ï¿½O\'ï¿½Gï¿½ï¿½Ü¥Dï¿½ï¿½ï¿½Bï¿½Dï¿½ï¿½ï¿½ï¿½ï¿½Î©Ò¦ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¶µï¿½C<br />\'ï¿½_\'ï¿½Gï¿½uï¿½ï¿½Ü¥Dï¿½ï¿½ï¿½Î¥Dï¿½ï¿½ï¿½ï¿½ï¿½ï¶µï¿½C');
 ?>

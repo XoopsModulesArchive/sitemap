@@ -10,7 +10,7 @@ if( ! defined( 'SITEMAP_ROOT_CONTROLLER_LOADED' ) ) {
 		$_SERVER['REQUEST_URI'] = '/modules/sitemap/xml_google.php' ;
 	}
 	$_SERVER['PHP_SELF'] = $_SERVER['REQUEST_URI'] ;
-	define( 'SITEMAP_ROOT_CONTROLLER_LOADED' , 1 ) ;
+	define('SITEMAP_ROOT_CONTROLLER_LOADED' , 1 ) ;
 	$real_xml_google_path = dirname(__FILE__).'/modules/sitemap/xml_google.php' ;
 	chdir( './modules/sitemap/' ) ;
 	require $real_xml_google_path ;
