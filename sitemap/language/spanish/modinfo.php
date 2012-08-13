@@ -19,12 +19,12 @@ define('_MI_SHOW_SUBCATEGORIES','¿Mostrar subcategorías?');
 define('_MI_SHOW_SUBCATEGORIESDSC','');
 
 define('_MI_ALLTIME_GUEST','¿Mostrar siempre con permisos de anónimo?');
-define('_MI_ALLTIME_GUESTDSC', "Si ud. tiene el caché activado para este módulo, seleccione \"Sí\".");
+define('_MI_ALLTIME_GUESTDSC',"Si ud. tiene el caché activado para este módulo, seleccione \"Sí\".");
 
 define('_MI_INVISIBLE_WEIGHTS','Configuración de "Orden de presentación" para ocultar');
 define('_MI_INVISIBLE_WEIGHTSDSC','Los módulos a ocultarse en el mapa de sitio se definirán según el valor de "Orden de presentación" en la administración de módulos. (Por regla, "0" o en blanco)');
 
 define('_MI_INVISIBLE_DIRNAMES','Configuración de nombre de carpeta a ocultarse');
-define('_MI_INVISIBLE_DIRNAMESDSC', "Define los módulos a ocultarse en el mapa del sitio a través del nombre de carpeta. Separe con comas para múltiples definiciones.<br />Ej.: xoopsheadline,newbb");
+define('_MI_INVISIBLE_DIRNAMESDSC',"Define los módulos a ocultarse en el mapa del sitio a través del nombre de carpeta. Separe con comas para múltiples definiciones.<br />Ej.: xoopsheadline,newbb");
 
 ?>

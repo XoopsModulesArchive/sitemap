@@ -16,12 +16,12 @@ define('_MI_SHOW_SUBCATEGORIES','Show Sub categorys');
 define('_MI_SHOW_SUBCATEGORIESDSC','');
 
 define('_MI_ALLTIME_GUEST','All-time guest mode');
-define('_MI_ALLTIME_GUESTDSC', "If you turn this module's cache on, set this option 'yes'");
+define('_MI_ALLTIME_GUESTDSC',"If you turn this module's cache on, set this option 'yes'");
 
 define('_MI_INVISIBLE_WEIGHTS','Weights for hiding modules');
 define('_MI_INVISIBLE_WEIGHTSDSC','Modules which has this number as its order in ModulesAdmin will be invisible. The numbers should be separated with comma.<br />(Normally 0 or blank)');
 
 define('_MI_INVISIBLE_DIRNAMES','Directory names of hiding modules');
-define('_MI_INVISIBLE_DIRNAMESDSC', "Specify the name of modules should be hidden.<br />Dirnames should be separated with comma.<br />eg) xoopsheadline,newbb");
+define('_MI_INVISIBLE_DIRNAMESDSC',"Specify the name of modules should be hidden.<br />Dirnames should be separated with comma.<br />eg) xoopsheadline,newbb");
 
 ?>

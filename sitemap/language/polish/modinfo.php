@@ -20,12 +20,12 @@ define('_MI_SHOW_SUBCATEGORIES','Pokazuj podkategorie');
 define('_MI_SHOW_SUBCATEGORIESDSC','');
 
 define('_MI_ALLTIME_GUEST','Nie u¿ywaj cache');
-define('_MI_ALLTIME_GUESTDSC', "Je¶li w³±czysz cache dla tego modu³u ustaw opcje na 'Tak'");
+define('_MI_ALLTIME_GUESTDSC',"Je¶li w³±czysz cache dla tego modu³u ustaw opcje na 'Tak'");
 
 define('_MI_INVISIBLE_WEIGHTS','Numer ID modu³ów które chesz ukryæ');
 define('_MI_INVISIBLE_WEIGHTSDSC','Modu³y które maj± numer ID który tu podasz bêd± niewidoczne w Mapie strony. Numery powinny byæ rozdzielone z przecinkiem.<br />(Je¿eli nic nie chcesz ukrywaæ zostaw puste)');
 
 define('_MI_INVISIBLE_DIRNAMES','Nazwy katalogów ukrywanych modu³ów');
-define('_MI_INVISIBLE_DIRNAMESDSC', "Podaj nazwy modu³ów które checsz ukryæ.<br />Katalogi powinny byæ oddzielane przecinkiem.<br />np) xoopsheadline,newbb");
+define('_MI_INVISIBLE_DIRNAMESDSC',"Podaj nazwy modu³ów które checsz ukryæ.<br />Katalogi powinny byæ oddzielane przecinkiem.<br />np) xoopsheadline,newbb");
 
 ?>
