@@ -5,8 +5,8 @@
 function b_sitemap_soapbox(){
 	global $xoopsUser ;
 	$ret = array() ;
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 
 	//get soapbox module object for readable columnIDs check
 	$module_handler = &xoops_gethandler('module');

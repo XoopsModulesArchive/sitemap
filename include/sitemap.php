@@ -23,7 +23,7 @@ function sitemap_show()
 	$module_handler =& xoops_gethandler('module');
 	$criteria = new CriteriaCompo(new Criteria('hasmain', 1));
 	$criteria->add(new Criteria('isactive', 1));
-	$modules =& $module_handler->getObjects($criteria, true);
+	$modules = $module_handler->getObjects($criteria, true);
 	$moduleperm_handler =& xoops_gethandler('groupperm');
 	$groups = is_object($xoopsUser) ? $xoopsUser->getGroups() : XOOPS_GROUP_ANONYMOUS;
 	$read_allowed = $moduleperm_handler->getItemIds('module_read', $groups);
@@ -135,10 +135,10 @@ function sitemap_show()
 function sitemap_get_categoires_map($table, $id_name, $pid_name, $title_name, $url, $order = ""){
 	global $sitemap_configs;
 	$mytree = new XoopsTree($table, $id_name, $pid_name);
-	$xoopsDB =& Database::getInstance();
+	$xoopsDB = Database::getInstance();
 	
 	$sitemap = array();
-	$myts =& MyTextSanitizer::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 
 	$i = 0;
 	$sql = "SELECT `$id_name`,`$title_name` FROM `$table` WHERE `$pid_name`=0" ;

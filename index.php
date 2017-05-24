@@ -26,7 +26,7 @@ if( ! empty( $backup_uid ) && ! empty( $sitemap_configs['alltime_guest'] ) ) {
 	$xoopsUserIsAdmin = $backup_userisadmin ;
 }
 
-$myts =& MyTextSanitizer::getInstance();
+$myts = MyTextSanitizer::getInstance();
 
 $xoopsTpl->assign('sitemap', $sitemap);
 $xoopsTpl->assign('msgs', $myts->displayTarea( $sitemap_configs['msgs'] , 1 ) ) ;

@@ -6,7 +6,7 @@
 //
 
 function b_sitemap_tutorials(){
-	$xoopsDB =& Database::getInstance();
+	$xoopsDB = Database::getInstance();
 
     $block = sitemap_get_categoires_map($xoopsDB->prefix("tutorials_categorys"), "cid", "scid", "cname", "listutorials?cid=", "cname");
 

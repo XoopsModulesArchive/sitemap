@@ -1,6 +1,6 @@
 <?php
 function b_sitemap_AMS(){
-	$xoopsDB =& Database::getInstance();
+	$xoopsDB = Database::getInstance();
 
 	// news
 //     $maptree = new SitemapTree($xoopsDB->prefix("topics"), "topic_id", "topic_pid");

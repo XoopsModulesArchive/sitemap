@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_sections(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT secid, secname FROM ".$db->prefix("sections")."");
 	

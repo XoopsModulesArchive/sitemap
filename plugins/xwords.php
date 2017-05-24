@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_xwords(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT categoryID, name FROM ".$db->prefix("xwords_cat")." order by weight");
 	

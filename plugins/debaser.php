@@ -4,7 +4,7 @@
 // WEB		::	http://www.proshack.net
 
 function b_sitemap_debaser(){
-	$xoopsDB =& Database::getInstance();
+	$xoopsDB = Database::getInstance();
 	
     $block = sitemap_get_categoires_map($xoopsDB->prefix("debaser_genre"), "genreid", "subgenreid", "genretitle", "genre.php?genreid=", "genretitle");
 

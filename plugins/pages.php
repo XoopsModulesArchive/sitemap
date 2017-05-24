@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_pages(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT CID, pagetitle, FROM " . $db->prefix("pages") . " WHERE mainpage <>0 OR defaultpage =1 ORDER BY weight, pagetitle ASC");
 		

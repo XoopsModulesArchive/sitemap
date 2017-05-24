@@ -24,7 +24,7 @@ $sitemap_configs['alltime_guest'] = true ;
 
 require_once XOOPS_ROOT_PATH.'/class/template.php' ;
 
-$myts =& MyTextSanitizer::getInstance() ;
+$myts = MyTextSanitizer::getInstance() ;
 
 $sitemap_configs['with_lastmod'] = true ;
 

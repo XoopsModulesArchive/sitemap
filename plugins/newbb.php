@@ -83,8 +83,8 @@ function b_sitemap_newbb(){
 	 * My part ends, D.J. :=)
 	 */
 
-    $db =& Database::getInstance();
-    $myts =& MyTextSanitizer::getInstance();
+    $db = Database::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     if($sitemap_configs["show_subcategoris"]){ // サブカテ表示のときのみ実行 by Ryuji
         // カテゴリを得る
         $sql = 'SELECT DISTINCT c.* FROM '.$db->prefix('bb_categories').' c, '.$db->prefix("bb_forums").' f WHERE f.cat_id=c.cat_id GROUP BY c.cat_id, c.cat_title, c.cat_order ORDER BY c.cat_order';

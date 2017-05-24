@@ -4,7 +4,7 @@
 // WEB		::	AmethystBlue <http://www.suin.jp/>
 // DATE		::	2005-02-15
 function b_sitemap_myalbum(){
-	$db =& Database::getInstance();
+	$db = Database::getInstance();
 	$block = sitemap_get_categoires_map($db->prefix("myalbum_cat"), "cid", "pid", "title", "viewcat.php?cid=", "title");
 	return $block;
 }

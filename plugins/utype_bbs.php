@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_utype_bbs(){
 	global $xoopsConfig;
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	include_once(XOOPS_ROOT_PATH.'/modules/utype_bbs/language/'.$xoopsConfig['language'].'/main.php');
 	$result = $db->query("
 		SELECT cid,top

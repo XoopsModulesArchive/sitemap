@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_xoopsfaq(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT category_id, category_title FROM ".$db->prefix("xoopsfaq_categories")." ORDER BY category_order");
 	
