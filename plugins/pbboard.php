@@ -3,8 +3,8 @@
 // Author: karedokx (karedokx@yahoo.com)
 
 function b_sitemap_pbboard(){
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	$sitemap = array();
 	$i = 0;
 	$url = "index.php?c=";

@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_wordbook(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT categoryID, name FROM ".$db->prefix("wbcategories")." order by weight");
 	

@@ -1,7 +1,7 @@
 <?php
 function b_sitemap_yybbs(){
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	$sitemap = array();
 	$i = 0;
 	$url = "index.php?bbs_id=";

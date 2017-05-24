@@ -4,8 +4,8 @@
 // WEB		::	AmethystBlue <http://www.suin.jp/>
 // DATE		::	2005-02-15
 function b_sitemap_mybbs(){
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	$sitemap = array();
 	$i = 0;
 	$url = "index.php?bbs_id=";

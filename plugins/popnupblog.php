@@ -6,8 +6,8 @@
 //
 function b_sitemap_popnupblog(){
     global $sitemap_configs;
-    $db =& Database::getInstance();
-    $myts =& MyTextSanitizer::getInstance();
+    $db = Database::getInstance();
+    $myts = MyTextSanitizer::getInstance();
     $sitemap = array();
     
     if($sitemap_configs["show_subcategoris"]){ // Execute with show sub categories by Yoshis

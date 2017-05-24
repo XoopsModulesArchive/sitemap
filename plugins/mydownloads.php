@@ -6,7 +6,7 @@
 //
 
 function b_sitemap_mydownloads(){
-	$xoopsDB =& Database::getInstance();
+	$xoopsDB = Database::getInstance();
 
     $block = sitemap_get_categoires_map($xoopsDB->prefix("mydownloads_cat"), "cid", "pid", "title", "viewcat.php?cid=", "title");
 

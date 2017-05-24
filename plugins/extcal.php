@@ -6,8 +6,8 @@
 
 function b_sitemap_extcal(){
 	
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	
 	$result = $db->query("SELECT cat_id, cat_name FROM ".$db->prefix("extcal_cat"));
 	

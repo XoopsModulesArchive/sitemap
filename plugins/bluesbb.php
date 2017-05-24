@@ -1,8 +1,8 @@
 <?php
 function b_sitemap_bluesbb(){
 	global $sitemap_configs,$xoopsUser,$member_handler;
-	$db =& Database::getInstance();
-	$myts =& MyTextSanitizer::getInstance();
+	$db = Database::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 	$sitemap = array();
 	if($sitemap_configs["show_subcategoris"]){
 		$query1='SELECT * FROM '.$db->prefix('bluesbb_categories').' ORDER BY cat_order';

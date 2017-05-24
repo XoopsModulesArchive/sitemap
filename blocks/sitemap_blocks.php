@@ -33,7 +33,7 @@ function b_sitemap_show( $options )
 		$xoopsUserIsAdmin = $backup_userisadmin ;
 	}
 
-	$myts =& MyTextSanitizer::getInstance();
+	$myts = MyTextSanitizer::getInstance();
 
 	$block['this']['mods'] = 'sitemap';
 	$block['cols'] = $cols ;
